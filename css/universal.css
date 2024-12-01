@@ -31,9 +31,11 @@
     border-radius: 4px;
     cursor: pointer;
 }
+
 .submit-button:hover {
     background-color: #45a049;
 }
+
 /* General styling */
 body {
     font-family: Arial, sans-serif;
