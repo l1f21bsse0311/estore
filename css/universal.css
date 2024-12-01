@@ -1,3 +1,24 @@
+
+
+
+/* Promo section styles */
+.promo {
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 600px;
+    background-color: #fff8e1;
+}
+
+.promo h2 {
+    color: #ff6f00;
+}
+
+.promo p {
+    font-size: 14px;
+    color: #555;
+=======
 /* Product dedtails page*/
 * {
     margin: 0;
@@ -13,6 +34,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+
 }
 
 /* Product container */
